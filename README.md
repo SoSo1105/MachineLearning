@@ -17,4 +17,4 @@ Welcome to Monika's Machine Learning repository. The intend is to showcase some 
     
 *  **A/B testing:**
 
-    -- Used Kaggle dataset to show A/B testing using the frequentist method. 
+    -- Used Kaggle dataset to show A/B testing using the frequentist and Bayesian method. 
